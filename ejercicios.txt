@@ -1,0 +1,4 @@
+Console.
+1) [LOG] "El perro esta cruzando la calle"
+2) [WARNING] "Hay fuertes vientos. Salga con precaución"
+3) [ERROR] "El usuario es inválido. Comuníquese con el administrador del sistema"
